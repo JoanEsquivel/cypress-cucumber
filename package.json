@@ -4,7 +4,8 @@
   "description": "Demo automation framework using cypress and cucumber js",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+    "runOnChrome": "cypress run --browser chrome"
   },
   "keywords": [
     "cucumber",
