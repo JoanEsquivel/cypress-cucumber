@@ -12,7 +12,6 @@ We reviewed topics like:
 - [x] Translation from a normal script to Gherkin
 - [x] Add the step definitions
 - [x] Implement Page Object Model
-2. 'cucumber-tables-report' branch
 - [x] Reuse given step using Background
 - [x] Adding examples to implement cucumber inline data table(read row by row)
 - [x] Adding Cucumber Cypress report to the repository  
